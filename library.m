@@ -1,7 +1,10 @@
 // Library Directory Path
 // 
-// Platform: All
+//
+// IDECodeSnippetIdentifier: DDE0B530-281F-401F-AFC7-FEB9FA81CCBF
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Function or Method
+// Platform: All
 
 [NSSearchPathForDirectoriesInDomains(NSLibraryDirectory, NSUserDomainMask, YES) firstObject];
